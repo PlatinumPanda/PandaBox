@@ -5,6 +5,7 @@
 
 # Intellij Files
 .idea
+.gradle
 
 # Package Files #
 *.jar
